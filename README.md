@@ -1,9 +1,9 @@
 ### Welcome 👋
 
 🔭 I’m currently working on 
-- [WarheadCore](https://github.com/WarheadCore/WarheadCore)
-- [Warhead](https://github.com/WarheadCore/Warhead)
-- [Launcher](https://github.com/Viste/launcher)
+- [neurogonbot](https://github.com/PPRFNK-Technocrats/demoroom-bot)
+- [dreamsbot] (https://github.com/PPRFNK-Technocrats/dreams)
+- [membot] (https://github.com/Viste/memebot)
 
 [![My github stat](https://github-readme-stats.vercel.app/api?username=Viste&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&theme=dark)](https://github.com/Viste)
 
