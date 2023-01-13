@@ -11,7 +11,7 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Viste)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viste&layout=compact&theme=dark)](https://github.com/Viste)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viste&layout=compact&theme=dark)](https://github.com/Viste)
 
 <!--
 **Viste/Viste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
