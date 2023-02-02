@@ -13,5 +13,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viste&layout=compact&theme=dark)](https://github.com/Viste)
 
+<img src="https://github-profile-trophy.vercel.app/?username=Viste&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 <!--
 **Viste/Viste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
