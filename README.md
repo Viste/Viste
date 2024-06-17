@@ -1,8 +1,6 @@
 ### Welcome 👋
 
 🔭 I’m currently working on 
-- [neurogonbot](https://github.com/PPRFNK-Technocrats/demoroom-bot)
-- [dreamsbot](https://github.com/PPRFNK-Technocrats/dreams)
 - [membot](https://github.com/Viste/memebot)
 
 [![My github stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Viste&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&theme=dark)](https://github.com/Viste)
