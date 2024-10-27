@@ -3,7 +3,7 @@
 🔭 I’m currently working on 
 - [Dev-vlab site](https://github.com/Viste/dev-vlab)
 - [membot](https://github.com/Viste/memebot)
-- [larets]([private](https://github.com/Viste/larets)
+- [larets](https://github.com/Viste/larets)
 - [nptracksite(private)](private)
 - [saturator](https://github.com/Viste/Saturator)
 
