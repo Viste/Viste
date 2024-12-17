@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Viste&layout=compact&theme=dark)](https://github.com/Viste)
 
 
-[![GitHub Streak]([https://streak-stats.demolab.com?user=Viste&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly](https://www.githubwrapped.io/Viste))]
+[![GitHub Streak](https://streak-stats.demolab.com?user=Viste&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://www.githubwrapped.io/Viste))
 
 <!--
 **Viste/Viste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
