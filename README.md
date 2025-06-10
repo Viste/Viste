@@ -1,10 +1,9 @@
 ### Welcome 👋
 
 🔭 I’m currently working on 
-- [Dev-vlab site](https://github.com/Viste/dev-vlab)
 - [membot](https://github.com/Viste/memebot)
 - [larets](https://github.com/Viste/larets)
-- [nptracksite(private)](private)
+- [vjooh(private)](private)
 - [saturator](https://github.com/Viste/Saturator)
 
 [![My github stat](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Viste&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&theme=ambient_gradient&rank_icon=percentile&ring_color=75C3FD)](https://github.com/Viste)
