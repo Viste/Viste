@@ -2,9 +2,9 @@
 
 🔭 I’m currently working on 
 - [membot](https://github.com/Viste/memebot)
-- [larets](https://github.com/Viste/larets)
-- [vjooh(private)](private)
+- [Orbital](https://github.com/Viste/Orbital)
 - [saturator](https://github.com/Viste/Saturator)
+- and some private thins
 
 [![My github stat](https://github-readme-stats.vercel.app/api?username=Viste&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&theme=ambient_gradient&rank_icon=percentile&ring_color=75C3FD)](https://github.com/Viste)
 
