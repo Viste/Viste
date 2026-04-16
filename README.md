@@ -10,7 +10,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Viste&theme=dark&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> 
 
-![Viste's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Viste&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Viste's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viste&theme=great-gatsby&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Viste&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
 
