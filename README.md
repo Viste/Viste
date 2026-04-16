@@ -6,9 +6,10 @@
 - [saturator](https://github.com/Viste/Saturator)
 - and some private thins
 
-[![My github stat](https://github-readme-stats.vercel.app/api?username=Viste&count_private=true&include_all_commits=true&show_icons=true&show_icons=true&theme=ambient_gradient&rank_icon=percentile&ring_color=75C3FD)](https://github.com/Viste)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Viste&theme=dark&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" /> 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viste&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ![Viste's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viste&theme=great-gatsby&hide_border=true)
 
